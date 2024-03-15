@@ -1,12 +1,14 @@
-# ICG Projekt von Gruppe 5
+# Interactive Computer Graphics Project - Group 5
 
 <!-- Ein Bild der Anwendung muss im Ordner ./img relativ zu dieser Datei liegen -->
 
 <!-- <img src="img/Ducktales.webp" width="75%"> -->
 
 This repository contains the project of the course "Interactive Computer Graphics" by Lorenz Bauer, Julius Arzberger, Marius Röhm.
+![image](https://github.com/Distr0hopper/3d-desktop/assets/100717485/5620bb33-9457-48c7-90b9-42ce23a3a400)
 
-# Projekt Struktur
+
+# Project Structur
 
 ```
 .
@@ -128,7 +130,7 @@ Use a console to change to the root directory of this file and run
 npm install
 ```
 
-### Ausführung
+### Execution
 
 Then enter
 
@@ -148,7 +150,7 @@ Switch between rasterizer and raytracer with key _2_.
 
 The _p_ key can be used to start and stop the animation of the animation nodes.
 
-## Scene Manipulationc
+## Scene Manipulation
 
 Buttons for the following functions are located below the render canvas:
 
