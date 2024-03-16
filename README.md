@@ -4,8 +4,10 @@
 
 <!-- <img src="img/Ducktales.webp" width="75%"> -->
 
-This repository contains the project of the course "Interactive Computer Graphics" by Lorenz Bauer, Julius Arzberger, Marius Röhm.
-![image](https://github.com/Distr0hopper/3d-desktop/assets/100717485/5620bb33-9457-48c7-90b9-42ce23a3a400)
+This repository contains the project of the course "Interactive Computer Graphics" by Lorenz Bauer, Julius Arzberger and Marius Röhm, which was part of the Bachelors programm of Human-Computer-Systems (Module: **10-MCS-ICGT-152-m01**).
+The project was graded with an 1.0.
+
+![image](https://github.com/Distr0hopper/3d-desktop/assets/100717485/5620bb33-9457-48c7-90b9-42ce23a3a400) 
 
 
 # Project Structur
